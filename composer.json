@@ -6,6 +6,7 @@
     "type": "project",
     "license": "BSD-3-Clause",
     "support": {
+        "email": "m1ke.cerber@gmail.com",
         "issues": "https://github.com/m1ke-cerber/yii2-app-mini/issues?state=open",
         "source": "https://github.com/m1ke-cerber/yii2-app-mini"
     },
