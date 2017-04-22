@@ -1,7 +1,7 @@
 {
     "name": "m1ke-cerber/yii2-app-mini",
     "description": "Yii 2 Minimized Project Template",
-    "keywords": ["yii2", "framework", "mini", "minimized", "project template"],
+    "keywords": ["yii2", "framework", "mini", "minimized", "project template", "application"],
     "homepage": "https://github.com/m1ke-cerber/yii2-app-mini",
     "type": "project",
     "license": "BSD-3-Clause",
